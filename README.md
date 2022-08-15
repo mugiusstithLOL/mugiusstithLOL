@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mugiusstithLOL
 - 👀 I’m interested in прицел
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning учусь
+- 💞️ I’m looking to collaborate on не ищю
+- 📫 How to reach me не свщываться
 
 <!---
 mugiusstithLOL/mugiusstithLOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
